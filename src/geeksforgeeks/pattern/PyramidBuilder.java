@@ -1,4 +1,4 @@
-package pattern;
+package geeksforgeeks.pattern;
 
 import static java.lang.System.*;
 

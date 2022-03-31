@@ -1,4 +1,4 @@
-package pattern;
+package geeksforgeeks.pattern;
 
 // Java code to demonstrate right star triangle
 public class RightTriangleBuilder {
